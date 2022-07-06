@@ -18,7 +18,7 @@ _rmse - root mean square error_
 
 • rmse obtained on test data using XGBoost was 3.46346
 
-Name - Vaibhav Dashrath Mohite
-Email - vaibhavdmohite22@gmail.com
-University - Indian Institute of Technology, Kharagpur
+Name - Vaibhav Dashrath Mohite                                                                                                                                         
+Email - vaibhavdmohite22@gmail.com                                                                                                                                     
+University - Indian Institute of Technology, Kharagpur                                                                                                                 
 
