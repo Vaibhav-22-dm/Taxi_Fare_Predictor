@@ -1,9 +1,6 @@
 # Taxi_Fare_Predictor
 This repository contains google colab files for Taxi Fare prediction in New York City
 
-### Github Repository Link - 
-https://github.com/Vaibhav-22-dm/Taxi_Fare_Predictor
-
 ### Description -
 Predicting the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations. The dataset is obtained from a Kaggle competition. 
 Models like Ridge Regression and XGBoost Regression were used.
